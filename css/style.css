@@ -1,0 +1,230 @@
+@font-face {
+    font-family: "Roboto_Bold";
+    src: url(../assets/fonts/Roboto-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: "Open Sans";
+    src: url(../assets/fonts/OpenSans-Light.ttf);
+  }
+  
+  @font-face {
+    font-family: "Roboto_Regular";
+    src: url(../assets/fonts/Roboto-Regular.ttf);
+  }
+  
+  .Logo {
+    display: flex;
+    font-size: 38px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    margin-left: 200px;
+    margin-top: 74px;
+  }
+  
+  .header_list {
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+    color: #274c5b;
+    margin-top: 84px;
+    margin-left: 200px;
+  }
+  
+  .header_outline {
+    display: flex;
+    font-family: "Roboto_Bold";
+  }
+  .Orange {
+    margin-top: 100px;
+  }
+  .Farmer_image {
+    width: 1400px;
+    height: 934px;
+    margin-top: 200px;
+    margin-left: 100px;
+  }
+  .services {
+    font-size: 50px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    margin-left: 492px;
+    margin-top: 30px;
+  }
+  
+  .first_text p {
+    display: flex;
+    font-size: 18px;
+    color: #525c60;
+    width: 936px;
+    height: 180px;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-family: "Open Sans";
+  }
+  .miwa img {
+    display: flex;
+    width: 410px;
+    height: 252px;
+    border-style: hidden;
+    border-radius: 20px;
+    margin-left: 200px;
+  }
+  .meore_text {
+    margin-left: 630px;
+    margin-top: -250px;
+    background-color: #f9f8f8;
+    width: 537px;
+    height: 252px;
+  }
+  
+  .meore_text h3 {
+    padding-left: 45px;
+    padding-top: 63px;
+    font-size: 25px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+  }
+  
+  .meore_text p {
+    font-size: 18px;
+    color: #525c60;
+    padding-top: 7px;
+    padding-left: 45px;
+    width: 447px;
+    height: 90px;
+    font-family: "Open Sans";
+  }
+  .mesame_text {
+    display: flex;
+    background-color: #f9f8f8;
+    width: 537px;
+    height: 252px;
+    margin-left: 200px;
+    margin-top: 20px;
+  }
+  
+  .mesame_text h3 {
+    position: absolute;
+    display: block;
+    height: 29px;
+    font-size: 25px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    padding-top: 63px;
+    padding-left: 45px;
+  }
+  
+  .mesame_text p {
+    width: 447px;
+    height: 90px;
+    padding-top: 99px;
+    padding-left: 45px;
+    font-size: 18px;
+    font-family: "Open Sans";
+    font-weight: 400;
+  }
+  .seed_image img {
+    display: flex;
+    width: 420px;
+    height: 252px;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: -250px;
+  }
+  
+  .meotxe_text h1 {
+    font-size: 35px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    margin-top: 70px;
+    margin-left: 492px;
+  }
+  
+  .meotxe_text p {
+    font-size: 18px;
+    color: #525c60;
+    font-family: "Open Sans";
+    width: 936px;
+    height: 90px;
+    margin-top: 11px;
+    margin-left: 200px;
+  }
+  .bolo img {
+    width: 1400px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 50px;
+  }
+  
+.contact_us {
+    width: 300px;
+    margin-left: 100px;
+  }
+  
+  .contact_us h1 {
+    width: 149px;
+    font-size: 30px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    margin-top: 1300px;
+  }
+  
+  .contact_us p {
+    font-size: 18px;
+    color: #525c60;
+    font-family: "Open Sans";
+  }
+  
+  .contact_us span {
+    font-family: "Roboto_Bold";
+  }
+  
+  .summery {
+    width: 540px;
+    height: 145px;
+    margin-left: 520px;
+    margin-top: -230px;
+  }
+  
+  .summery h1 {
+    font-size: 30px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+    margin-left: 230px;
+  }
+  
+  .summery p {
+    width: 543px;
+    height: 60px;
+    font-size: 18px;
+    color: #525c60;
+    margin-left: 50px;
+  }
+  
+  .Utility_pages {
+    width: 230px;
+    margin-left: 1200px;
+    margin-top: -140px;
+  }
+  
+  .Utility_pages h1 {
+    font-size: 30px;
+    color: #274c5b;
+    font-family: "Roboto_Bold";
+  }
+  
+  .Utility_pages li {
+    font-size: 18px;
+    font-family: "Open Sans";
+    color: #525c60;
+    padding-top: 25px;
+    column-gap: 10px;
+  }
+  
+  .footer_end {
+    margin-left: 500px;
+    font-size: 18px;
+    color: #525c60;
+  }
+  
